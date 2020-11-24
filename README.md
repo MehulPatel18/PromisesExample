@@ -1,0 +1,2 @@
+# PromisesExample
+Javascript promises code 
